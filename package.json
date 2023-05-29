@@ -1,4 +1,13 @@
 {
+  "name": "virtual-pet",
+  "version": "1.0.0",
+  "description": "Virtual Pet is a JavaScript project for the CommandSHIFT Full Stack Development Bootcamp.",
+  "main": "pet.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Armghan Zubair",
+  "license": "ISC",
   "devDependencies": {
     "jest": "^29.5.0"
   }
