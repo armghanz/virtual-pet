@@ -44,4 +44,11 @@ pet.feed() // This allows you to feed your pet.
 pet.haveChild() // This allows your pet to develop offspring.
 ```
 
+## Dependencies 
+### Dev Depenencies
+*[Jest](https://jestjs.io/)
+
+> ## Attribution
+> Created by [Armghan Zubair]
+
 Have Fun!
