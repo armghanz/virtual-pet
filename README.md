@@ -48,7 +48,7 @@ pet.haveChild() // This allows your pet to develop offspring.
 ### Dev Depenencies
 *[Jest](https://jestjs.io/)
 
-> ## Attribution
-> Created by [Armghan Zubair]
+## Attribution
+Created by [Armghan Zubair]
 
 Have Fun!
